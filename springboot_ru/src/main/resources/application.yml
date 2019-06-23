@@ -1,0 +1,15 @@
+name: 吕博文
+#peron:
+#  name: lo
+#  sddr: lv
+#peron: {name: 吕博文,sddr: 张}
+#切记-后空格
+#person:
+#  - name: 了解到副科级
+#    age: 89
+#    addr: 北二街耗费i
+
+person:
+  name: tom
+  age: 19
+  addr: shanghai
